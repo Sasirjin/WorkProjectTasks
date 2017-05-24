@@ -1,0 +1,13 @@
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTests\bin\Debug\TaskDB.mdf
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTests\bin\Debug\TaskDB_log.ldf
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTests\bin\Debug\CountryVehicleProduction.csv
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTests\bin\Debug\WorkProjectTests.dll.config
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTests\bin\Debug\WorkProjectTests.dll
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTests\bin\Debug\WorkProjectTests.pdb
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTests\bin\Debug\WorkProjectTasks.dll
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTests\bin\Debug\WorkProjectTasks.pdb
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTests\obj\Debug\WorkProjectTests.csprojResolveAssemblyReference.cache
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTests\obj\Debug\WorkProjectTests.dll
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTests\obj\Debug\WorkProjectTests.pdb
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTests\bin\Debug\WorkProjectTasks.dll.config

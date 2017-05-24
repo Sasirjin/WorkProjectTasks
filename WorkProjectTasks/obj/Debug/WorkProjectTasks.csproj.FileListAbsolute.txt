@@ -1,0 +1,7 @@
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTasks\bin\Debug\TaskDB.mdf
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTasks\bin\Debug\TaskDB_log.ldf
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTasks\bin\Debug\WorkProjectTasks.dll.config
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTasks\bin\Debug\WorkProjectTasks.dll
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTasks\bin\Debug\WorkProjectTasks.pdb
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTasks\obj\Debug\WorkProjectTasks.dll
+C:\Users\Jud\Documents\Job Hunt\SambaSafety\WorkProjectTasks\WorkProjectTasks\obj\Debug\WorkProjectTasks.pdb
